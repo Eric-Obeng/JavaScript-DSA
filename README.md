@@ -10,3 +10,12 @@ Learning more on Data Structure and Algorithm using JavaScript
   <li>Determine the Big O of the solution</li>
  </ol>
   
+# Recursion
+Recursion is a problem solving technique where the solution depends on solution to smaller instances of the same problem
+<h3 align="left">A few points about Recursion </h3>
+
+<ol>
+  <li>Every recursive solution needs to have a base case - a condition to terminate the recursion</li>
+  <li>Recursion might simplify solving a problem but it does not always translate to a faster solution.<br>A recursive solution maybe far worse compared to an iterative solution</li>
+  <li>Recursion is a topic that is not the most straight forward to understand. Do not give up if you struggle with the concept.</li>
+</ol>
