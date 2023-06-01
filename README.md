@@ -19,3 +19,17 @@ Recursion is a problem solving technique where the solution depends on solution 
   <li>Recursion might simplify solving a problem but it does not always translate to a faster solution.<br>A recursive solution maybe far worse compared to an iterative solution</li>
   <li>Recursion is a topic that is not the most straight forward to understand. Do not give up if you struggle with the concept.</li>
 </ol>
+
+# Search Algorithms
+Here we will be looking at 2 main search algorithms
+## Linear Search
+## Binary Search
+Then we look at
+### Recursive Binary Search
+<h3 align="left"> The Approach</h3>
+<ol>
+  <li>The Problem Statement</li>
+  <li>Try solving the Problem</li>
+  <li>Implement the solution together</li>
+  <li>Determine the Big O of the solution</li>
+ </ol>
