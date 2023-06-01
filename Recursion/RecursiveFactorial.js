@@ -9,5 +9,8 @@ function recursiveFactorial(n) {
 console.log(recursiveFactorial(0))
 console.log(recursiveFactorial(1))
 console.log(recursiveFactorial(5))
+console.log(recursiveFactorial(10))
+console.log(recursiveFactorial(12))
+
 
 //Big O = O(n)
