@@ -14,3 +14,5 @@ function linearSearch(arr, target) {
 }
 
 console.log(linearSearch([-5, 2, 10, 4, 6], 5))
+console.log(linearSearch([-5, 2, 10, 4, 6], 10))
+console.log(linearSearch([-5, 2, 10, 4, 6], 6))
