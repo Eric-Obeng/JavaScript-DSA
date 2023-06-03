@@ -15,4 +15,4 @@ function findSum(arr, n) {
 
 console.log(findSum([1, 2, 4, 5, 6, 9], 6))
 console.log(findSum([1, 2, 4, 5, 6, 9], 9))
-console.log(findSum([1, 2, 4, 5, 6, 9], 10))
+console.log(findSum([1, 2, 4, 5, 6, 9], 1))
