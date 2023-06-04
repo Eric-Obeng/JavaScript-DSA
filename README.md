@@ -33,3 +33,19 @@ Then we look at
   <li>Implement the solution together</li>
   <li>Determine the Big O of the solution</li>
  </ol>
+
+ # Sorting Algorithms
+ In this section we talk about
+
+ ## Bubble Sort
+ ## Insertion Sort
+ ## Quick Sort
+ ## Merge Sort
+
+ <h3 align="left"> The Approach</h3>
+ <ol>
+  <li>The Problem Statement</li>
+  <li>Try solving the Problem</li>
+  <li>Implement the solution together</li>
+  <li>Determine the Big O of the solution</li>
+ </ol>
