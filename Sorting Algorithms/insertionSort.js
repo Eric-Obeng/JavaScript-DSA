@@ -14,3 +14,6 @@ function insertionSort(arr) {
 const arr = [8, 20, -2, -4, 6, 0, -1]
 insertionSort(arr)
 console.log(arr)
+
+
+//Big O =O(n*2)
