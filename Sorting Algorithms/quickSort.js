@@ -21,4 +21,5 @@ const arr = [8, 20, -2, 4, -6]
 console.log(quickSort(arr)) 
 
 
-//Big O = O(n)
+// worst case Big O = O(n*2)
+//Avg case Big O = O(nlogn)
